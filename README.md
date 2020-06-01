@@ -19,3 +19,4 @@
 - Certified Kubernetes Administrator (CKA) Program
   - [https://www.cncf.io/certification/cka](https://www.cncf.io/certification/cka)
   - The Certified Kubernetes Administrator (CKA) program was created by the Cloud Native Computing Foundation (CNCF), in collaboration with The Linux Foundation, to help develop the Kubernetes ecosystem. As one of the highest velocity open source projects, Kubernetes use is exploding.
+  - The Cloud Native Computing Foundation offers a certification program that allows users to demonstrate their competence in a hands-on, command-line environment. The purpose of the Certified Kubernetes Administrator (CKA) program is to provide assurance that CKAs have the skills, knowledge, and competency to perform the responsibilities of Kubernetes administrators.
