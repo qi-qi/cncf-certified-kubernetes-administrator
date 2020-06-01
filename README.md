@@ -1,4 +1,4 @@
-# CNCF Certified Kubernetes Administrator
+# CNCF Certified Kubernetes Administrator - CKA
 
 ## Certificate Number: CKA-2000-008475-0100
 - Certificate Valid Date: 
